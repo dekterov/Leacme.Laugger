@@ -5,6 +5,7 @@
 This application features the ability to retrieve and display the current machine system logs.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703387-7e423f00-2d91-11ea-9d6b-a1cc5737678d.png)
 
 ## Application Compiling
 
